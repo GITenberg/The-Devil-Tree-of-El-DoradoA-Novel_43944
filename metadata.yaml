@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '42493'
     url: http://www.gutenberg.org/2009/agents/42493
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43944#The-Devil-Tree-of-El-DoradoA-Novel
 gutenberg_issued: '2013-10-13'
 gutenberg_type: Text
 identifiers:
