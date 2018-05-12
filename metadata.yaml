@@ -1,0 +1,40 @@
+_repo: The-Devil-Tree-of-El-DoradoA-Novel_43944
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Ellis, Leigh
+    gutenberg_agent_id: '42494'
+    url: http://www.gutenberg.org/2009/agents/42494
+  - agent_name: Hyland, Fred
+    gutenberg_agent_id: '42495'
+    url: http://www.gutenberg.org/2009/agents/42495
+covers:
+- cover_type: archival
+  image_path: 43944-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Aubrey, Frank
+    aliases:
+    - Atkins, Francis Henry
+    - Atkins, Frank
+    - Ash, Fenton
+    birthdate: 1847
+    deathdate: 1927
+    gutenberg_agent_id: '42493'
+    url: http://www.gutenberg.org/2009/agents/42493
+description: ''
+gutenberg_issued: '2013-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43944'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Science fiction'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'South America -- Fiction'
+title: 'The Devil-Tree of El Dorado: A Novel'
+url: http://www.gutenberg.org/ebooks/43944
